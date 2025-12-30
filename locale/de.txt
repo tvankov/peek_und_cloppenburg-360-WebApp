@@ -1,0 +1,26 @@
+#: locale=de
+
+## Media
+
+### Titel
+panorama_2D4182FE_2EAC_A543_41BC_149BB5CE870D.label = 01_pano_eg_ohne_barista
+panorama_2EC95F6F_2EAC_BB41_41BA_DD4925CBF0A5.label = 02_pano_eg_mit_barista
+panorama_2ECD7B8B_2EAC_9BC1_41AA_1C6E9A561BC7.label = 03_pano_eg_barista
+panorama_2ECCD7A8_2EAD_6BCF_41B2_F6592C8AB9F1.label = PuC_4OG_Buero_V01_PANOs_cam01
+panorama_2ECCF3D3_2EAD_6B41_41BB_404F46CF1967.label = PuC_5OG_Rest_PANOs_cam01
+panorama_2ECCCFFF_2EAD_9B41_41B2_6A88D9E7B305.label = PuC_5OG_Rest_V01_PANOs_cam02
+panorama_2ECC8C79_2EAD_BD41_41BA_CC88E617B2C4.label = PuC_5OG_Rest_V01_PANOs_cam03
+panorama_2ECCC8A5_2EAD_A5C1_41BC_5544973EBEFA.label = PuC_EG_Barista_nachher_PANOs_cam03
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = PuC
